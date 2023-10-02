@@ -16,3 +16,12 @@
 @import "./sass/sections/contact";
 @import "./sass/sections/hero";
 @import "./sass/sections/projects";
+
+.primary-color{
+    color: #00108A;
+}
+
+.ksp{
+    width: minmax(100px, 1fr);
+    height: 500px
+}
